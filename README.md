@@ -1,5 +1,7 @@
 # Trader Performance vs Market Sentiment Analysis
 
+live link https://trader-sentiment-dashboard-urptpd7oyqwsnyk3gawrzy.streamlit.app/
+
 ## Objective
 
 This project analyzes how Bitcoin market sentiment (Fear vs Greed) influences trader behavior and performance.
